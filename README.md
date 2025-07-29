@@ -16,7 +16,7 @@ Achieved up to **99.93% accuracy** and **0.9999 AUC**, significantly improving t
 ## Dataset
 - Original dataset contains 855,969 loan applications and 73 features
 - After preprocessing: 846,317 records, no missing values, and reduced feature dimensionality
-- The dataset can be downloaded from the following link: [Download from Google Drive]([https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/1y7UgWljYVHuHfkXai-j_8nu4DpMQri6n))
+- The dataset can be downloaded from the following link: [Download data.zip from Google Drive](https://drive.google.com/drive/folders/1y7UgWljYVHuHfkXai-j_8nu4DpMQri6n)
 
 ## Model Summary
 
@@ -26,15 +26,6 @@ Achieved up to **99.93% accuracy** and **0.9999 AUC**, significantly improving t
 | Gradient Boosted    | TensorFlow    | 99.79%   | 0.9977  |
 | Neural Network      | TensorFlow    | 99.78%   | 0.998   |
 | Decision Tree       | PySpark       | ~99.19%  | ~0.991  |
-
-## Folder Structure
-```
-credit-worthiness-classification/
-├── code.ipynb        # Main notebook (PySpark and TensorFlow modeling)
-├── data/
-│   └── data.zip             # Raw dataset 
-├── README.md                
-```
 
 ## Getting Started
 
