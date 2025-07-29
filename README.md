@@ -16,6 +16,7 @@ Achieved up to **99.93% accuracy** and **0.9999 AUC**, significantly improving t
 ## Dataset
 - Original dataset contains 855,969 loan applications and 73 features
 - After preprocessing: 846,317 records, no missing values, and reduced feature dimensionality
+- The dataset can be downloaded from the following link: [Download from Google Drive]([https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/1y7UgWljYVHuHfkXai-j_8nu4DpMQri6n))
 
 ## Model Summary
 
